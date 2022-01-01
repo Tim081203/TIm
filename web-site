@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <link  href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <title>Virtual Reality</title>
+   <link rel="icon" href="https://cdn-icons.flaticon.com/png/512/3599/premium/3599924.png?token=exp=1641027120~hmac=fd4744f2d419139c1b4245acd49fc14b" type="image/x-icon">
+   <link rel="stylesheet" type="text/css" href="Virtual Reality.css">
+</head>
+<body>
+<div class="menu" >
+<p class="about-us">
+    about us</p>
+<p class="VR-products">
+    VR-products</p>
+<p class="games-applications">games-applications</p>
+<p class="business">business</p>
+</div>
+<img class="vrochki" src="https://4knigaman.ru/wp-content/uploads/2018/07/%D0%9E%D1%87%D0%BA%D0%B8-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpg">
+
+<iframe class="video" width="972" height="547" src="https://www.youtube.com/embed/N055DHaJ_Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="button">
+</div>
+<h1 class="name">Virtual Reality</h1>
+<div class="figure"></div>
+<div class="pryamougolnik"></div>
+<div class="gradient"></div>
+<div class="continue">Continue</div>
+<img class="chelovek" src="https://vrplace.la/wp-content/uploads/2018/07/slide1c.jpg">
+<div class="gradient-niz"></div>
+<img class="odin" src="https://cdn-icons.flaticon.com/png/512/3599/premium/3599924.png?token=exp=1641027120~hmac=fd4744f2d419139c1b4245acd49fc14b">
+<div class="shapka-niz">
+</body>
+</html>
+body{
+    background-color:#D9D6DE ;
+    font-family: 'Staatliches', cursive;
+}
+.figure{
+    /* Rectangle 4 */
+<!--
+    position: absolute;
+    width: 1452px;
+    width:100%;
+    height: 152px;
+    left: -12px;
+    top: -76px;
+
+    background: #0B0A0A; -->
+
+}
+.menu {
+    text-align:center;
+    width: 100%;
+    display: flex;
+    padding: 0 px 25 px;
+    margin-bottom:100px;
+    font-size:25px;
+    color:white;
+    margin-left:110px;}
+.about-us{
+    padding: 0 px 50px;
+    margin-bottom:1000px;
+    width: 100%;
+    display: flex;
+    text-shadow: 2px 2px 4px #000000;}
+.about-us:hover{
+    color: #5265f6; /* Меняем цвет текста */
+}
+.VR-products{
+    padding: 0 px 50px;
+    margin-bottom:1000px;
+    width: 100%;
+    display: flex;
+    text-shadow: 2px 2px 4px #000000;
+}
+.VR-products:hover{
+    color: #5265f6; /* Меняем цвет текста */
+}
+.games-applications{
+    padding: 0 px 50px;
+    margin-bottom:1000px;
+    width: 100%;
+    display: flex;
+    text-shadow: 2px 2px 4px #000000;
+}
+.games-applications:hover{
+    color: #5265f6; /* Меняем цвет текста */
+}
+.business{
+    padding: 0 px 50px;
+    margin-bottom:1000px;
+    width: 100%;
+    display: flex;
+    text-shadow: 2px 2px 4px #000000;
+}
+.business:hover{
+    color: #5265f6; /* Меняем цвет текста */
+}
+.vrochki{
+
+
+    /* Очки-виртуальной-реальности 1 */
+
+    position: absolute;
+    width: 381px;
+    height: 358px;
+    left: 93px;
+    top: 236px;
+
+    background: url(Очки-виртуальной-реальности.jpg);
+    border-radius: 119px;
+
+
+}
+.video{
+   margin-left:300px;
+    position: absolute;
+    margin-top:800px;
+}
+.button{
+    /* Rectangle 3 */
+
+    position: absolute;
+    width: 254px;
+    height: 68px;
+    left: 820px;
+    top: 672px;
+
+    background: #1D65C1;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+
+}
+
+
+.pryamougolnik{
+
+   /* Rectangle 6 */
+
+    /* Rectangle 6 */
+
+    position: absolute;
+    width: 755px;
+    height: 452px;
+    left: 576px;
+    top: 189px;
+
+    background: #E6E6E6;
+    box-shadow: 10px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+}
+.gradient{
+    /* Rectangle 7 */
+
+    position: absolute;
+    width: 1440px;
+    height: 251px;
+    left: 0px;
+    top: 785px;
+    width:100%;
+    background: linear-gradient(180deg, #D9D6DE 0%,#B405C3 235%);
+
+}
+.continue{
+    /* Continue */
+
+    position: absolute;
+    width: 248px;
+    height: 76px;
+    left: 875px;
+    top: 679px;
+
+    font-family:'Staatliches', cursive ;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+.chelovek{
+    /* srb0i0apynz8vjdzdgev 1 */
+
+    /* srb0i0apynz8vjdzdgev 1 */
+
+    position: absolute;
+    width: 1639px;
+    height: 643px;
+    left: -119px;
+    top: 1036px;
+
+    background: url(slide1c.jpg);
+
+
+}
+.gradient-niz{
+    /* Rectangle 7 */
+
+    /* Rectangle 7 */
+
+    position: absolute;
+    width: 1527px;
+    height: 251px;
+    left: -8px;
+    top: 1679px;
+
+    background: linear-gradient(0deg, #D9D6DE 11.21%, #E554FD 117.53%);
+
+}
+.odin{
+    /* virtual-reality 1 */
+
+
+
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left: 100px;
+    top: 100px;
+
+    background: url(virtual-reality.png);
+
+}
+.shapka-niz{
+    /* Rectangle 8 */
+
+    position: absolute;
+    width: 1500px;
+    height: 685px;
+    left: 3px;
+    top: 2600px;
+
+    background: rgba(0, 0, 0, 0.25);
+    mix-blend-mode: multiply;
+    border: 5px solid #000000;
+    box-shadow: inset 30px 20px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+}
+.name{
+    /* VR-products */
+
+    position: absolute;
+    width: 310px;
+    height: 61px;
+    left: 225px;
+    top: 80px;
+
+    font-family: 'Staatliches',cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
